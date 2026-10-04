@@ -25,8 +25,9 @@ while True:
 
     else:
         print("Bot: Sorry, I don't understand that.")
-        Output
-        You: food
+       
+Output
+You: food
 Bot: I don't eat, but pizza sounds delicious!
 You: time
 Bot: Time is precious, so use it wisely!
