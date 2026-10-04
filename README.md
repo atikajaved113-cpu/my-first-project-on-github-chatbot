@@ -25,3 +25,18 @@ while True:
 
     else:
         print("Bot: Sorry, I don't understand that.")
+        Output
+        You: food
+Bot: I don't eat, but pizza sounds delicious!
+You: time
+Bot: Time is precious, so use it wisely!
+You: motivate me
+Bot: Believe in yourself and never give up!
+You: joke
+Bot: Why did the computer go to the doctor? Because it had a virus!
+You: bye
+Bot: Goodbye! Have a great day.
+PS C:\Users\lenovo\Downloads\my first project chatbot> 
+
+        
+
